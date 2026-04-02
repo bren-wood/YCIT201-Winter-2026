@@ -1,0 +1,48 @@
+Solution Data for - A 47 7
+
+Ranked Data
+M 22.6   F 30.4   M 34.8   M 35.7   M 36.0   F 36.5   F 36.7   F 37.7   F 37.9   F 38.3
+F 40.6   M 40.7   F 41.0   M 41.5   M 42.9   M 43.8   M 44.0   M 44.3   F 44.6   M 44.8
+F 44.9   F 45.0   M 45.0   M 45.1   M 45.5   F 45.8   F 45.8   F 46.8   M 48.7   F 48.8
+F 49.0   F 49.8   M 50.3   M 50.6   F 50.7   F 50.8   M 51.1   F 51.1   M 51.6   F 51.7
+M 53.0   F 53.5   M 54.3   F 54.5   F 54.8   M 54.9   M 55.0   F 56.3   F 56.8   F 57.1
+M 57.1   F 58.6   F 59.2   M 61.4   M 62.0   F 62.6   F 64.0   F 64.7   M 65.7   F 78.7
+
+Part 1. 95% confidence interval for sample of 60.
+sample mean = 48.78 min.
+95% C.I.E.: from 46.27 to 51.3 min.
+
+Part 2. 90% confidence interval for females
+sample mean = 49.84 min sample standard deviation = 10.038704 min.
+critical value = 1.705 margin of error = 2.979512 min.
+90% C.I.E.: from 46.86 to 52.82 min.
+
+Part 3. 90% confidence interval for males
+sample mean = 47.5 min. sample standard deviation = 9.361726 min.
+critical value = 1.695 margin of error = 3.053822 min.
+90% C.I.E.: from 44.44 to 50.55 min.
+
+Part 4. 99% confidence interval for proportion of females
+sample proportion of females = 33/60 = 0.55
+Verify the Rule of Five
+99% C.I.E.: from 0.3846 to 0.7154
+
+marks
+
+   title page     ______ /5       95% C.I.E. B.1   ______ /10
+
+
+   objectives     ______ /15      90% C.I.E. B.2   ______ /10
+
+
+   procedure      ______ /15      90% C.I.E. B.3   ______ /10
+
+
+   correct sample ______ /5       99% C.I.E. B.4   ______ /10
+
+
+   ranked data    ______ /5       Conclusions      ______ /15
+
+
+
+                                            mark  ________/100
